@@ -3,7 +3,7 @@
 🎯 **Objetivo:** Me tornar um especialista em Data Science e Análise de Dados.  
 📊 **Habilidades:** Matemática aplicada, Estatística, SQL, R, Python, Power BI, Excel.  
 📢 **Me siga nas redes sociais:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seuperfil/)  
+[![https://www.linkedin.com/in/mario-carvalho-87826a258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seuperfil/)  
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/mariov_carvalho)  
 
 ## 🚀 Tecnologias e Ferramentas  
@@ -16,5 +16,3 @@
 ## 📊 Estatísticas do GitHub  
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MarioBR-harpia &show_icons=true&theme=radical)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioBR-harpia&layout=compact&theme=radical)
-
-Agora, só substituir seuperfil e seuusuario pelos seus dados reais. Quer adicionar mais alguma coisa?
