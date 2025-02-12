@@ -4,7 +4,7 @@
 📊 **Habilidades:** Matemática aplicada, Estatística, SQL, R, Python, Power BI.  
 📢 **Me siga nas redes sociais:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seuperfil/)  
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/seuperfil)  
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/mariov_carvalho/)
 
 ## 🚀 Tecnologias e Ferramentas  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
