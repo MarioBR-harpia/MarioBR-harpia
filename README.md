@@ -16,4 +16,6 @@
 ## 📊 Estatísticas do GitHub 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MarioBR-harpia&show_icons=true&theme=radical)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioBR-harpia&layout=compact&theme=radical)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MarioBR-harpia&show_icons=true&theme=radical)
+
+## Linguagens que já usei 🚀
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioBR-harpia&layout=compact&langs_count=10&theme=radical)
