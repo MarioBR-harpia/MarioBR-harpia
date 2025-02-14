@@ -13,6 +13,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
-## 📊 Estatísticas do GitHub  
+## 📊 Estatísticas do GitHub 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MarioBR-harpia&show_icons=true&theme=radical)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioBR-harpia&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MarioBR-harpia&show_icons=true&theme=radical)
