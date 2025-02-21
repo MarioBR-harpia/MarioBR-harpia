@@ -24,4 +24,4 @@
 
 ## Minhas Estatísticas no GitHub 📊
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=10&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioBR-harpia &layout=compact&langs_count=10&theme=radical)
