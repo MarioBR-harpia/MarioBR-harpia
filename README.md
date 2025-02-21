@@ -22,3 +22,6 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MarioBR-harpia&show_icons=true&theme=radical)
 
+## Contribuições do GitHub 🌱
+
+![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=MarioBR-harpia&theme=radical)
