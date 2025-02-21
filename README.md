@@ -22,6 +22,6 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MarioBR-harpia&show_icons=true&theme=radical)
 
-## Contribuições do GitHub 🌱
+## Minhas Estatísticas no GitHub 📊
 
-![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=MarioBR-harpia&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=10&theme=radical)
